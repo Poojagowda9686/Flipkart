@@ -1,0 +1,14 @@
+cd --> change directory
+pwd --> present working dir
+ls --> list the file/folders
+ls -l --> long list(detals)
+cat --> display the content of file
+vi --> to open vi editor
+touch --> create the file
+mkdir --> create the director
+wq --> write & quit from vi editor
+clear --> clear screen
+cd .. --> go one step back
+rmdir --> remove directory
+rm --> remove file
+
